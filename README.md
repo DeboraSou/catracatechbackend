@@ -2,9 +2,9 @@
     <a href="https://www.oracle.com/java/technologies/javase-documentation.html" title="Documentação Java SE" target="_blank" rel='noopener noreferrer'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="250" alt="Logo Java" />
     </a>
-</div>
+</div><br />
 
-<div align="center" style="display: inline_block; padding-top: 40px;">
+<div align="center" style="display: inline_block;">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="Documentação do HTML" target="_blank" rel='noopener noreferrer'>
         <img align="center" alt="HTML5" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     </a>
