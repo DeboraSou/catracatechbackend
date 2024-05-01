@@ -67,7 +67,7 @@ mvn spring-boot:run
   - **nome (opcional):** Nome da pessoa a ser saudada. Se não fornecido, o padrão é "Mundo".
 - **Retorno:** Uma mensagem de saudação em HTML com o nome fornecido.
 
-**Suadação sem o nome:**
+**Saudação sem o nome:**
 ```bash
 GET http://localhost:8080/ola
 ```
@@ -76,7 +76,7 @@ GET http://localhost:8080/ola
 
 ![Endpoint](/src/public/ola.png)
 
-**Suadação com o nome:**
+**Saudação com o nome:**
 ```bash
 GET http://localhost:8080/ola?nome=Cavil
 ```
