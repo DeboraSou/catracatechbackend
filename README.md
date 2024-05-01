@@ -71,12 +71,18 @@ mvn spring-boot:run
 ```bash
 GET http://localhost:8080/ola
 ```
+
+**Resultado:**
+
 ![Endpoint](/src/public/ola.png)
 
 **Suadação com o nome:**
 ```bash
 GET http://localhost:8080/ola?nome=Cavil
 ```
+
+**Resultado:**
+
 ![Endpoint](/src/public/ola-Cavil.png)
 
 ### Liberar Catraca
@@ -94,6 +100,9 @@ GET http://localhost:8080/ola?nome=Cavil
 ```bash
 GET http://localhost:8080/liberarCatraca?ra=22135
 ```
+
+**Resultado:**
+
 ![Endpoint](/src/public/liberada.png)
 
 **Aluno não encontrado:**
@@ -101,12 +110,17 @@ GET http://localhost:8080/liberarCatraca?ra=22135
 GET http://localhost:8080/liberarCatraca?ra=22165
 ```
 
+**Resultado:**
+
 ![Endpoint](/src/public/nao-encontrado.png)
 
 **Acesso negago:**
 ```bash
 GET http://localhost:8080/liberarCatraca?ra=0
 ```
+
+**Resultado:**
+
 ![Endpoint](/src/public/negado.png)
 
 ### Página Não Encontrada
@@ -119,6 +133,9 @@ GET http://localhost:8080/liberarCatraca?ra=0
 ```bash
 GET http://localhost:8080/sistema
 ```
+
+**Resultado:**
+
 ![Endpoint](/src/public/404.png)
 
 ## Notas
