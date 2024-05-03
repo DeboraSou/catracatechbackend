@@ -5,7 +5,7 @@
 </div><br />
 
 <div align="center" style="display: inline_block;">
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="Documentação do HTML" target="_blank" rel='noopener noreferrer'>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML | MDN" target="_blank" rel='noopener noreferrer'>
         <img align="center" alt="HTML5" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     </a>
     <a href="https://maven.apache.org/" title="site oficial do Apache Maven" target="_blank" rel='noopener noreferrer'>
